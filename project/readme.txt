@@ -26,3 +26,4 @@ Azure Video Analyzer, Analytics, Static Web Apps, Apps Service
 Other Azure Technologies : Custom Vision
 
 Project Demo Video :
+https://drive.google.com/file/d/1yM1UldV5I2Bm8BWHI-XIc5L1H4-VXCov/view?usp=sharing
